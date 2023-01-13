@@ -1,1 +1,2 @@
-This is fileB.txt
+This is fileB.txt.
+Make a change and push to github
